@@ -1,0 +1,7 @@
+
+language: python
+
+compiler:
+	- python3
+
+script: python3 -m unittest
